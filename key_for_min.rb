@@ -10,5 +10,5 @@ hash.each do |k, v|
     lowest_k = k
     end
     end
-    lowest_key
+    lowest_k
     end
